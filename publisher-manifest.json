@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4af31df15c8f2e3da31cc6b5",
+  "owner": "xrfqywhwctd",
+  "repo": "page-f99b59aafb5419c34633e443",
+  "title": "黑子哥(HeiZiGe)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f99b59aafb5419c34633e443",
+      "a": "黑子哥(HeiZiGe)",
+      "b": "稳定全球clash加速器",
+      "entity": "黑子哥(HeiZiGe)",
+      "brand": "黑子哥(HeiZiGe)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b13f826e7e5d166e1e06ee38b89d957ec447d8c9d17b2a5cb98921e5d2a03ef3",
+      "content": {
+        "primary_entity": "黑子哥(HeiZiGe)",
+        "keyword1": "黑子哥(HeiZiGe)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Windows、macOS、Android、iOS 与路由器上选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先根据设备数量与月流量选择套餐，再按客户端文档配置订阅，即可开始使用黑子哥。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，黑子哥提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，同时在线设备从 3 台到 20 台。旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURES_INTRO": "围绕设备数量、月流量与计费周期挑选合适档位。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合手机与笔记本日常浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，附 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量设备",
+          "AI_FEATURE_TITLE_2": "多端均衡",
+          "AI_FEATURE_TITLE_3": "团队设备",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，三步完成黑子哥的初始设置。",
+          "AI_GUIDE_TITLE": "使用配置流程",
+          "AI_HERO_INTRO": "黑子哥是一款面向全球线路的加速服务，提供三档套餐选择，覆盖从个人轻量使用到团队多设备场景，兼顾流量、设备数量与专线加速需求。",
+          "AI_HERO_SUBTITLE": "黑子哥全球加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏专线优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB 与 3 台设备，旗舰版每月 300GB 与 5 台设备，团队版每月 1000GB 与 20 台设备，年付分别约为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版与团队版之间选择一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路类型，确认是否满足流媒体或游戏场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅信息，按照客户端文档完成配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "黑子哥全球线路加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "黑子哥套餐可以随时切换吗？",
+          "AI_FAQ_ANSWER_1": "可以在套餐周期结束后重新选择档次。如需在周期内调整，建议先确认当前剩余流量与设备数量是否满足需求，再决定是否更换。",
+          "AI_FAQ_QUESTION_2": "三档套餐的设备数量限制如何理解？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。同时在线指同一时间保持连接的设备数量，超出后新设备可能无法连接。",
+          "AI_FAQ_QUESTION_3": "年付与月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格相当于按月付费的十个月，基础版年付¥150、旗舰版年付¥350、团队版年付¥850。若长期使用，年付更划算，但需一次性支付全年费用。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "IPLC专线在网络延迟与稳定性上表现更好，适合对响应速度有要求的在线游戏、实时协作等场景。若主要用于浏览网页，基础版也能满足。",
+          "AI_FAQ_QUESTION_5": "团队版能否用于企业环境？",
+          "AI_FAQ_ANSWER_5": "团队版支持20台设备同时在线，并提供VIP专属高带宽节点、企业定制路由与专属客户经理服务，适合小型团队或企业统一配置使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--kele-3k5fnnq43a0ygin4b.com",
+    "host": "xn--kele-3k5fnnq43a0ygin4b.com"
+  },
+  "file_hashes": {
+    "index.html": "7c5a35a4d9699bfee7b3068ce7b2441fb7e565e5826758e6c2de23ccb0497ea2",
+    "sitemap.xml": "0593c3132165666c3eef9bdcf7d7f2bb15942957022e04fe1043e171905bcdc4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "34cbf45f4e13008676d4f6fb429dac211d5595411c2b714759f3741f996c8724",
+    "robots.txt": "00da40fa0ab47e0d9bc787375de3a510474da9efdabd606590813b217340222c",
+    "a0f764d7f0e4b402e1afbc61a2b16fd5.txt": "284ce1ea4ea14cc28a8fada10919cf6a3394d4bc96e505111bc8a26a5ab10d49"
+  },
+  "revision": "9274dfefafa3bee590e8a0cfda7902340c081105c0a8d2ead0e859c6e8b08c0d"
+}
